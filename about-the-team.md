@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the team
-subtitle: The data magicians and enthusiastic Indian Youtube suporters
+subtitle: The data magicians and enthusiastic Indian Youtube supporters
 ---
 
 Some placeholder texts here. Will write something when I'm in the mood to.
