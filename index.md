@@ -4,7 +4,7 @@ title: From Classroom to Screen: Exploring the Boom of Indian STEM Education on 
 subtitle: A project by team ADAcadabra2048
 layout: page
 # cover-img: /assets/img/some-img.png
-# thumbnail-img: /assets/img/some-img.png
+thumbnail-img: "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fwjym6vd3awad1.jpeg"
 # share-img:  /assets/img/some-img.png
 use-site-title: true
 ---
