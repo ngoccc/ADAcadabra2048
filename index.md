@@ -3,9 +3,9 @@ layout: home
 title: From Classroom to Screen: Exploring the Boom of Indian STEM Education on YouTube
 subtitle: A project by team ADAcadabra2048
 layout: page
-# cover-img: /assets/img/some-img.png
+cover-img: "https://i.kym-cdn.com/photos/images/newsfeed/001/529/880/cac.jpg"
 thumbnail-img: "https://i.kym-cdn.com/photos/images/newsfeed/001/529/880/cac.jpg"
-# share-img:  /assets/img/some-img.png
+share-img: "https://i.kym-cdn.com/photos/images/newsfeed/001/529/880/cac.jpg"
 use-site-title: true
 ---
 
