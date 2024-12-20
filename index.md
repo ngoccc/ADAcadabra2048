@@ -132,7 +132,7 @@ From this, it’s clear that each country employs different monetization strateg
 
 As observed, Indian creators predominantly adopt the `merch_others` monetization strategy. Let's examine some examples to better understand how this strategy is implemented:
 | Video Description |
-| :------------------------------------------------------------------- |
+| :-------------------------------------------------------------------: |
 |Launch Your First Android app with our TOP course at 82% OFF (24 hrs ONLY) HERE https://goo.gl/7veBXc"<br>Learn How To Design + Code A Complete App From Scratch To Playstore" https://www.youtube.com/watch?v=aWGGZCOHZ1k
 |This video shows how to build a RelativeLayout in Java code using RelativeLayout.LayoutParams class and creating other.<br>Check us out at http://facebook.com/Slidenerd|
 |Doubtnut  के साथ १००%  मार्क्स पायें, आज ही डाउनलोड करें :- https://doubtnut.app.link/91GzfmKxjP<br>Related Questions & Solutions:<br>1. Evaluate the definite integrals `int-1 1(x+1)dx`... https://youtu.be/rvm3ufXmQyI<br>2. Evaluate the definite integrals `int_2^3 1/x dx`...https://youtu.be/qI7zCysjDB8<br>3. Evaluate the definite integrals `int_1^2(4x^3-5x^2+6x+9)dx`...https://youtu.be/VOiZh18X8BM|
@@ -232,7 +232,7 @@ For the sentiment analysis, we picked a 3% sample and crawled comments for each 
 Such thresholds were adjusted based to the sampled comments. In complex cases, comments were missclassified because of sarcastic tone, controversial parts (the video is good, but...) but in general, we found these thresholds most efficient.
 #### Classified comments samples:
 | Positive | Negative | Neutral |
-| ---------------- |:---------------- |:----------------|
+| :----------------: |:----------------: |:----------------:|
 
 |Thank you guru jiii|For some reason the JS code doesnt change the active class for me. Do you know why?|Ma'am, I think You didn't mention the use of mixer blender in the experiment|
 |this vedio is very nice and are all parts are to the point .|Mam... there is an mistake in Question number 6th the derivative of cos is -sin and the answer is -a/2b|more image,more meme|
