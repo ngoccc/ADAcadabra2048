@@ -1,13 +1,21 @@
 ---
+title: Website Draft
+
+---
+
+<!---
+---
 layout: home
 title: From Classroom to Screen - Exploring the Boom of Indian STEM Education on YouTube
 subtitle: A project by team ADAcadabra2048
 layout: page
-# cover-img: "https://i.kym-cdn.com/photos/images/newsfeed/001/529/880/cac.jpg"
-# thumbnail-img: "https://i.kym-cdn.com/photos/images/newsfeed/001/529/880/cac.jpg"
-# share-img: "https://i.kym-cdn.com/photos/images/newsfeed/001/529/880/cac.jpg"
+# cover-img: 
+# thumbnail-img: 
+# share-img: 
 use-site-title: true
 ---
+TODO: Modify these info (title and image) and uncomment this if we need to push this to github
+-->
 If you zoned out in class and now find yourself scrambling for tutorials online—fear not!
 There’s likely an Indian tutor on YouTube ready to guide you through that tricky math problem, complex programming concept, or mind-bending quantum physics puzzle. But why is it always an Indian tutor? Are they especially skilled in STEM content? How did this trend start, and what unique factors set them apart? In this project, we’ll uncover the story behind the rise of Indian STEM educators on YouTube.
 
